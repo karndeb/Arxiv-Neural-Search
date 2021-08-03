@@ -19,7 +19,7 @@ This project is a sample demo of Arxiv search related to AI/ML Papers built usin
 - The Frontend provides the direct pdf links to the papers incase you want to download the papers 
 
 ## Requirements
-- Create two empty directory called data and models
+- Create two empty directories called data and models
 - Run the colab notebook in the notebooks folder to generate the data and the serialized index and save it in the two respective folders
 
 ## Installation & Usage
