@@ -1,5 +1,5 @@
 # Arxiv Neural Search
-![Arxiv Neural Search Demo](https://github.com/karndeb/Arxiv-Neural-Search/tree/master/demo/animation_demo.gif)
+![Arxiv Neural Search Demo](https://github.com/karndeb/Arxiv-Neural-Search/blob/master/demo/animation_demo.gif)
 
 This project is a sample demo of Arxiv search related to AI/ML Papers built using Streamlit, sentence-transformers and Faiss. 
 
