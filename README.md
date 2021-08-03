@@ -6,8 +6,8 @@ This project is a sample demo of Arxiv search related to AI/ML Papers built usin
 
 ## Some of the features of the project
 
-- The search has more than 100,000 ai/ml related papers indexed 
-- The index covers all the five important categories of arxiv ai/ml research which are 
+- The search has more than 100,000 AI/ML related papers indexed 
+- The index covers all the five important categories of arxiv AI/ML research which are 
   - Computation and Language 
   - Information Retrieval 
   - Machine Learning 
