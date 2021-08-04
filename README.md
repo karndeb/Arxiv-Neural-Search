@@ -30,3 +30,7 @@ $ git clone https://github.com/karndeb/Arxiv-Neural-Search.git
 $ pip install -r requirements.txt
 # start the streamlit app server
 $ streamlit run app.py
+
+## License
+
+This project is licensed under the GPL-3.0 License - see the [LICENSE.md](https://github.com/karndeb/Arxiv-Neural-Search/blob/master/LICENSE.md) file for details
